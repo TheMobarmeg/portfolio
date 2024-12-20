@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background-color: #fecd49;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.title {
+  font-size: 44px;
+  color: #333;
+}
+
+.main-nav {
+  margin-top: 20px;
+}
+
+.link {
+  color: #333;
+  font-size: 25px;
+  margin: 10px;
+  margin-top: 40px;
+}
+
+.about {
+  background-color: #ecf0f1;
+  padding: 35px;
+  text-align: center;
+}
+
+.subtitle {
+  margin-bottom: 15px;
+  font-size: 25px;
+  color: #333;
+}
+
+.description {
+  font-size: 22px;
+}
+
+.skills {
+  text-align: center;
+  padding: 35px;
+}
+
+.list {
+}
+
+.item {
+  margin-bottom: 7px;
+  font-size: 22px;
+  list-style: none;
+}
+
+.projects {
+  text-align: center;
+  background-color: #ecf0f1;
+  padding: 35px;
+}
+
+.papa {
+  display: flex;
+  gap: 30px;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.project {
+  background-color: #fff;
+  padding-bottom: 20px;
+  border-radius: 15px;
+}
+
+.project-image {
+  width: 500px;
+  height: 100%;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+.contact {
+  text-align: center;
+  padding: 35px;
+}
+
+.contact_title {
+  font-size: 25px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.contact_description {
+  font-size: 22px;
+  color: #333;
+}
+
+.email {
+  color: #333;
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+footer {
+  text-align: center;
+  background-color: #fecd49;
+  padding: 20px;
+}
+
+.tiny {
+  font-size: 17px;
+}
